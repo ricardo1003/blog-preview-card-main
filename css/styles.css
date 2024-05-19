@@ -2,7 +2,32 @@ body{
     margin: 0;
     background-color: hsl(47, 88%, 63%);
     font-family: "Figtree";
+    height: 100vh;
 }
+main{
+    width: 21rem;
+    padding: 1.5rem;
+    margin: 5rem auto;
+    background-color: white;
+    border-radius: 1rem;
+    border: 2px solid hsl(0, 0%, 7%);
+    box-shadow: 10px 10px hsl(0, 0%, 7%);
+
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 .attribution { 
