@@ -52,8 +52,19 @@ main{
 .text p{
     color: hsl(0, 0%, 50%);
 }
+.author{
+    height: 3em;
+    display: flex;
 
-
+}
+.author img{
+    display: inline-block;
+    
+}
+.author p{
+    margin-left: 1rem;
+    display: inline-block;
+}
 
 
 
@@ -61,5 +72,6 @@ main{
 
 
 .attribution { 
+    margin-top: 1rem;
     font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
