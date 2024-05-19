@@ -19,7 +19,31 @@ main{
     -o-border-radius: 1rem;
 }
 
-
+.image img{
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+    -webkit-border-radius: .5rem;
+    -moz-border-radius: .5rem;
+    -ms-border-radius: .5rem;
+    -o-border-radius: .5rem;
+}
+.image h2{
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: 800;
+    padding: 0.5rem 1rem;
+    background-color: hsl(47, 88%, 63%);
+    display: inline-block;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.image p{
+    margin: 0;
+    font-weight: 500;
+}
 
 
 
