@@ -44,6 +44,6 @@ Nothing specifically
 ## Author
 
 - Website - [ricardo1003](https://ricardo1003.github.io/blog-preview-card-main/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ricardo1003)
-- Github - [@yourusername](https://www.Github.com/ricardo1003)
+- Frontend Mentor - [@ricardo1003](https://www.frontendmentor.io/profile/ricardo1003)
+- Github - [@ricardo1003](https://www.Github.com/ricardo1003)
 
