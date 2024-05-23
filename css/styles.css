@@ -4,11 +4,15 @@ body{
     font-family: "Figtree";
     height: 100vh;
     color: hsl(0, 0%, 7%);
+    display: flex;
+    align-items: center;
 }
 main{
+    box-sizing: border-box;
+    height: 535px;
     width: 21rem;
     padding: 1.5rem;
-    margin: 5rem auto;
+    margin: 0 auto;
     background-color: white;
     border-radius: 1rem;
     border: 2px solid hsl(0, 0%, 7%);
@@ -21,6 +25,7 @@ main{
 }
 
 .image img{
+    width: 100%;
     margin-bottom: 1rem;
     border-radius: .5rem;
     -webkit-border-radius: .5rem;
